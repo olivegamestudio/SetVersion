@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SetVersion": {
+      "commandName": "Project",
+      "commandLineArgs": "K:\\inspired\\coreconnect\\source\\coreconnect-service-test"
+    }
+  }
+}
